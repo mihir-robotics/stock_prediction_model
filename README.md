@@ -6,7 +6,6 @@ Keep in mind that the stock market depends on various factors that have not been
 
 _________________________________________________________________________________________________________
 
-The in-depth explanation of this project is available here. <- hyperlink this
 
 This project uses a LSTM Model to predict the Closing Prices of selected stocks.
 
