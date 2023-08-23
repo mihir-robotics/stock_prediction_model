@@ -8,10 +8,13 @@ ________________________________________________________________________________
 
 The in-depth explanation of this project is available here. <- hyperlink this
 
-This project uses a LSTM Model to predict the Closing Prices of selected stocks. 
+This project uses a LSTM Model to predict the Closing Prices of selected stocks.
+
 Selected Stocks: Amazon, Meta, Netflix, Tesla, Microsoft, Apple
 
-Data Processing and Cleaning is done using Pandas
+Data Processing and Cleaning is done using Pandas.
+
 Feature Scaling / Transforming is implemented by using the StandardScaler in sklearn.
+
 The model is built and trained using Keras.
 
